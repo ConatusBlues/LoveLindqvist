@@ -1,2 +1,0 @@
-# LoveLindqvist
-Miun programmering
